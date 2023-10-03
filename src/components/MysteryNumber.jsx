@@ -9,7 +9,7 @@ const MysteryNumber = (props) => {
   const numberAInputChanged = (e) => {
     setNumberA(e.target.value);
   };
-
+  //salut
   const NumberBInputChanged = (e) => {
     setNumberB(e.target.value);
   };
